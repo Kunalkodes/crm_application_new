@@ -1,0 +1,10 @@
+.entry-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+}
+.form-box {
+  box-shadow: 0px 03px 15px -15px black;
+}
